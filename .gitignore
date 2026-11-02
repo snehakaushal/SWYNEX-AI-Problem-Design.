@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+support_ticket_model.pkl
+.env
